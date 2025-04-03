@@ -891,9 +891,11 @@ textarea {
   .footer-columns {
     flex-direction: column;
     text-align: center;
+    align-items: center; /* Center-align content */
   }
 
   .footer-column {
     margin-bottom: 20px;
+    text-align: center; /* Ensure text is centered */
   }
 }
