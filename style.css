@@ -896,6 +896,6 @@ textarea {
 
   .footer-column {
     margin-bottom: 20px;
-    text-align: center; /* Ensure text is centered */
+    text-align: center;
   }
 }
